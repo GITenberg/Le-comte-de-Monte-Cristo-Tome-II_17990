@@ -11,7 +11,7 @@ Title: Le comte de Monte-Cristo, Tome II
 Author: Alexandre Dumas
 
 Release Date: March 15, 2006 [EBook #17990]
-[This file last updated on April 9, 2011]
+[Last updated: January 20, 2018]
 
 Language: French
 
@@ -5088,7 +5088,7 @@ mains.
 
 --Montez chez moi, alors, je vous la donnerai.
 
---J'aime mieux l'attendre ici, dit en riant le message.
+--J'aime mieux l'attendre ici, dit en riant le messager.
 
 --Pourquoi cela?
 
@@ -8466,7 +8466,7 @@ Monte-Cristo.
 L'autre salua humblement et présenta son bras au comte pour l'aider à
 descendre de la voiture.
 
-«Merci, monsieur Bertoccio, dit le comte en sautant légèrement les trois
+«Merci, monsieur Bertuccio, dit le comte en sautant légèrement les trois
 degrés du marchepied; et le notaire?
 
 --Il est dans le petit salon, Excellence, répondit Bertuccio.
@@ -9518,7 +9518,7 @@ dans la prison de Nîmes.
 et je suppose que de votre côté vous n'avez pas grande envie de dormir.»
 
 
-Bertoccio s'inclina et reprit sa narration.
+Bertuccio s'inclina et reprit sa narration.
 
 «Moitié pour chasser les souvenirs qui m'assiégeaient, moitié pour
 subvenir aux besoins de la pauvre veuve, je me remis avec ardeur à ce
@@ -9753,7 +9753,7 @@ hôtellerie.
 --Oui, dit Monte-Cristo, je me souviens parfaitement. Ce digne homme, si
 je ne me trompe, était même votre associé.
 
---C'est cela, répondit Bertoccio; mais depuis sept ou huit ans, il avait
+--C'est cela, répondit Bertuccio; mais depuis sept ou huit ans, il avait
 cédé son établissement à un ancien tailleur de Marseille qui, après
 s'être ruiné dans son état, avait voulu essayer de faire sa fortune dans
 un autre. Il va sans dire que les petits arrangements que nous avions
@@ -12942,7 +12942,7 @@ quoiqu'elles fussent renfermées dans ce petit cadre....
 --Et Dieu vous a versé, comme il le fait pour tous, la consolation sur
 la souffrance? demanda Monte-Cristo.
 
---Oui, monsieur le comte, dit Julie nous pouvons le dire, car il n'a
+--Oui, monsieur le comte, dit Julie nous pouvons le dire, car il a
 fait pour nous ce qu'il ne fait que pour ses élus; il nous a envoyé un
 de ses anges.»
 
@@ -13035,7 +13035,7 @@ regard de Julie; un Anglais, dites-vous?
 mandataire de la maison Thomson et French, de Rome. Voilà pourquoi,
 lorsque vous avez dit l'autre jour chez M. de Morcerf que MM. Thomson et
 French étaient vos banquiers, vous m'avez vu tressaillir. Au nom du
-Ciel, monsieur cela se passait, comme nous vous l'avons dit, en 1829;
+Ciel, monsieur, cela se passait, comme nous vous l'avons dit, en 1829;
 avez-vous connu cet Anglais?
 
 --Mais ne m'avez-vous pas dit aussi que la maison Thomson et French
@@ -13585,7 +13585,7 @@ semblent étranges: le grand-père bonapartiste, le père royaliste; enfin,
 que voulez-vous?... Je me retournai donc vers lui. Il me montrait le
 journal du regard.
 
-«--Qu'avez-vous, papa? lui dis-le; êtes-vous content?»
+«--Qu'avez-vous, papa? lui dis-je; êtes-vous content?»
 
 Il me fit de la tête signe que oui.
 
@@ -14739,7 +14739,7 @@ de l'ambassadeur de Russie?
 --L'entre-colonne du premier rang; elle me semble parfaitement remise à
 neuf.
 
---En effet, dit Château-Renaud. Est-ce qu'il avait quelqu'un pendant le
+--En effet, dit Château-Renaud. Est-ce qu'il y avait quelqu'un pendant le
 premier acte?
 
 --Où?
@@ -14771,7 +14771,7 @@ allait commencer. Albert se leva pour regagner sa place.
 --Dans les entractes, si vous le permettez, je viendrai m'informer si je
 puis vous être bon à quelque chose à Paris.
 
---Messieurs, dit la comtesse, tous les samedi soir, rue de Rivoli, 22,
+--Messieurs, dit la comtesse, tous les samedis soir, rue de Rivoli, 22,
 je suis chez moi pour mes amis. Vous voilà prévenus.»
 
 Les jeunes gens saluèrent et sortirent.
@@ -14869,7 +14869,7 @@ que toute la salle sait déjà comme nous.
 --Je suis fâché, dit Morcerf, d'être un cicérone si ignorant, mais je
 dois avouer que là se bornent mes connaissances; je sais, en outre
 qu'elle est musicienne, car un jour que j'ai déjeuné chez le comte, j'ai
-entendu les sons d'une gazla qui ne pouvaient venir certainement que
+entendu les sons d'une guzla qui ne pouvaient venir certainement que
 d'elle.
 
 --Il reçoit donc, votre comte? demanda Mme Danglars.
@@ -15740,7 +15740,7 @@ garçon, ne fût-ce que dix ans.
 Et prenant congé d'Albert, il rentra chez lui et frappa trois fois sur
 son timbre.
 
-Bertoccio parut.
+Bertuccio parut.
 
 «Monsieur Bertuccio, dit-il, vous saurez que je reçois samedi dans ma
 maison d'Auteuil.»
@@ -15760,7 +15760,7 @@ les tentures ont vieilli.
 coucher de damas rouge: vous la laisserez même absolument telle qu'elle
 est.»
 
-Bertoccio s'inclina.
+Bertuccio s'inclina.
 
 «Vous ne toucherez pas au jardin non plus; mais de la cour, par exemple,
 faites-en tout ce que vous voudrez; il me sera même agréable qu'on ne la
